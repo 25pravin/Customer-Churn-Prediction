@@ -32,7 +32,7 @@ It combines predictive modeling, segmentation, and explainability to not only id
    - Applied K-Means to identify customer clusters (loyal, at-risk, new, etc.)  
 
 4. **Model Explainability**  
-   - Feature Importance (RF, XGB)  
+   - Feature Importance (RF)  
    - SHAP values for local & global interpretability  
 
 
